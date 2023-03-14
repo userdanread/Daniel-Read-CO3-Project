@@ -1630,9 +1630,6 @@ namespace Daniel_Read_CO3_Project
         {
 
 
-
-
-
             labelupdatorNum = 0;
             Dopen = false;
             Uopen = false;
